@@ -20,7 +20,7 @@ A simple demonstration of a basic cryptocurrency implementation in Go.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SimpleCrypto.git
+    git clone https://github.com/hashmi846003/SimpleCrypto.git
     cd SimpleCrypto
     ```
 
